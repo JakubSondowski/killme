@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NUMBER_OF_MESSEGES 21
+#define NUMBER_OF_MESSAGES 21
 
 void kill_me_message(short unsigned int num);
 
 int main(void){
   srand(time(NULL));
   
-  short unsigned int random_num = random() % NUMBER_OF_MESSEGES;
+  short unsigned int random_num = random() % NUMBER_OF_MESSAGES;
   kill_me_message(random_num);
   return 0;
 }
@@ -39,7 +39,7 @@ void kill_me_message(short unsigned int num){
       break;
     
     case 5: 
-      message = "Do you belive in magic? Is that you have installed Linux?";
+      message = "Do you believe in magic? Is that you have installed Linux?";
       break;
 
     case 6:
@@ -99,11 +99,11 @@ void kill_me_message(short unsigned int num){
       break;
 
     case 20: 
-      messege = "C'mon! Working with Linux may be tough, but it's still easier than trying to survive in North Korea!"
+      message = "C'mon! Working with Linux may be tough, but it's still easier than trying to survive in North Korea!";
       break;
 
     default:
-      message = "Something gone horribly wrong. Are you suprised? Well, I'm not :D";
+      message = "Something has gone horribly wrong. Are you suprised? Well, I'm not :D";
       break;
   }
 
