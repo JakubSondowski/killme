@@ -13,4 +13,4 @@ sudo make install
 ## PS
 
 The project is still being actively developed.  
-More jokes and dark Linux truths coming soon.
+More Linux truths coming soon.
