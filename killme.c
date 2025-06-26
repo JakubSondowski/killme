@@ -98,6 +98,10 @@ void kill_me_message(short unsigned int num){
       message = "linux_xD protocol activated. System stability downgraded to experimental.";
       break;
 
+    case 20: 
+      messege = "C'mon! Maybe working with Linux is difficult, but still less difficult than trying to survive in North Korea!"
+      break;
+
     default:
       message = "Something gone horribly wrong. Are you suprised? Well, I'm not :D";
       break;
