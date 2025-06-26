@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NUMBER_OF_MESSEGES 19
+#define NUMBER_OF_MESSEGES 20
 
 void kill_me_message(short unsigned int num);
 
@@ -92,6 +92,10 @@ void kill_me_message(short unsigned int num){
 
     case 18:
       message = "Package linux_reliability not found, please refer to the Protocols of the Elder Scrolls.";
+      break;
+
+    case 19:
+      message = "linux_xD protocol activated. System stability downgraded to experimental.";
       break;
 
     default:
