@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NUMBER_OF_MESSEGES 20
+#define NUMBER_OF_MESSEGES 21
 
 void kill_me_message(short unsigned int num);
 
