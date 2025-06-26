@@ -14,3 +14,5 @@ sudo make install
 
 The project is still being actively developed.  
 More Linux truths coming soon.
+
+If you'd like to share your ideas with me, feel free to email me at jakub.sondowski@student.put.poznan.pl
