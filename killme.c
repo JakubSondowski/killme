@@ -91,7 +91,7 @@ void kill_me_message(short unsigned int num){
       break;
 
     case 18:
-      message = "package linux_reliability not found, please refer to the Protocols of the Elder Scrolls.";
+      message = "Package linux_reliability not found, please refer to the Protocols of the Elder Scrolls.";
       break;
 
     default:
