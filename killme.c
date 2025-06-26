@@ -75,7 +75,7 @@ void kill_me_message(short unsigned int num){
       break;
 
     case 14:
-      message = "You have two pills. One means using Linux for the rest of your life. The other gives you a brain tumor. Choose wisely.";
+      message = "You have just rolled the dice. One means using Linux for the rest of your life. The other gives you a brain tumor. Choose wisely.";
       break;
 
     case 15:
