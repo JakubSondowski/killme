@@ -86,6 +86,10 @@ void kill_me_message(short unsigned int num){
       message = "Have you tried screaming at your monitor? It won't fix anything, but at least the neighbors will know you're working with Linux.";
       break;
 
+    case 17:
+      message = "Linux is not perfectbut still less buggy than a Ubisoft game.";
+      break;
+
     default:
       message = "Something gone horribly wrong. Are you suprised? Well, I'm not :D";
       break;
