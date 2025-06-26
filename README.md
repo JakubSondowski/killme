@@ -1,6 +1,6 @@
 # killme
 
-A dark-humored terminal command that outputs a random depressing programmer quote. Inspired by Linux frustration
+A simple dark-humored terminal command that outputs a random depressing programmer quote. Inspired by Linux frustration
 
 ## Build & Install
 
