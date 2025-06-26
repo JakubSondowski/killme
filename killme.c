@@ -31,7 +31,7 @@ void kill_me_message(short unsigned int num){
       break;
 
     case 3:
-      message = "Have you tried turning it off and blaming the hardware?";
+      message = "Have you already tried turning it off and blaming the hardware?";
       break;
 
     case 4:
