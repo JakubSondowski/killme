@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NUMBER_OF_MESSEGES 17
+#define NUMBER_OF_MESSEGES 19
 
 void kill_me_message(short unsigned int num);
 
@@ -87,7 +87,11 @@ void kill_me_message(short unsigned int num){
       break;
 
     case 17:
-      message = "Linux is not perfectbut still less buggy than a Ubisoft game.";
+      message = "Linux isn't perfect, but it's still less buggy than a Ubisoft game.";
+      break;
+
+    case 18:
+      message = "package linux_reliability not found, please refer to the Protocols of the Elder Scrolls.";
       break;
 
     default:
