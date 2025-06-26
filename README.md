@@ -1,2 +1,16 @@
 # killme
-# killme  A small hobby project created in my free time.   Just a bit of dark humor for Linux programmers who like to suffer — and laugh at it.    Feel free to use, improve, or contribute!   PS: The project is still under active development.
+
+A dark-humored terminal command that outputs a random depressing programmer quote. Inspired by Linux frustration and black comedy.
+
+## Build & Install
+
+```bash
+git clone 
+cd killme
+make
+sudo make install
+
+## PS
+
+The project is still being actively developed.  
+More jokes and dark Linux truths coming soon.
