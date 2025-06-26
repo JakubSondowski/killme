@@ -99,7 +99,7 @@ void kill_me_message(short unsigned int num){
       break;
 
     case 20: 
-      messege = "C'mon! Maybe working with Linux is difficult, but still less difficult than trying to survive in North Korea!"
+      messege = "C'mon! Working with Linux may be tough, but it's still easier than trying to survive in North Korea!"
       break;
 
     default:
