@@ -87,7 +87,7 @@ void kill_me_message(short unsigned int num){
       break;
 
     default:
-      message = "Something gone horribly wrong. Are you suprised";
+      message = "Something gone horribly wrong. Are you suprised? Well , I'm not :D";
       break;
   }
 
